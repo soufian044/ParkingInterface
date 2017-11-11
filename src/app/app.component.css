@@ -1,0 +1,38 @@
+.container {
+  background-color: mediumspringgreen;
+  width: 60px;
+  height: 70px;
+  position: relative;
+  margin: 10px;
+  float:left;
+}
+.containerOccupied {
+  background-color: crimson;
+  width: 60px;
+  height: 70px;
+  position: relative;
+  margin: 10px;
+  float:left;
+}
+
+.textCont {
+  font-size: 11px;
+}
+
+.number {
+  font-size: 35px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 70px;
+}
+
+.col{
+  background-color: mediumspringgreen;
+  margin: 2px;
+  width: 60px;
+  height: 70px;
+}
+
+.title{
+  text-align: center;
+}
